@@ -17,3 +17,7 @@ Provides a PATCH endpoint at /data which allows insertion of a single number int
 ### References
 + Express docs: https://expressjs.com/en/starter/examples.html
 + Looked through this repo for practical examples: https://github.com/gothinkster/node-express-realworld-example-app/
+
+### Lessons Learned
++ Express needed some middleware to parse the body, multer and body-parser - haven't run into that before
++ .every() method on arrays for content checking
