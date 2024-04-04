@@ -13,3 +13,7 @@ Provides a GET endpoint at /data which provides the same JSON formatted list of 
 BONUS:
 
 Provides a PATCH endpoint at /data which allows insertion of a single number into the list which gets placed in the proper order.
+
+### References
++ Express docs: https://expressjs.com/en/starter/examples.html
++ Looked through this repo for practical examples: https://github.com/gothinkster/node-express-realworld-example-app/
