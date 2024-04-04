@@ -1,0 +1,13 @@
+interface IEventEmitter {
+    // Subscribe a callback to a stringy event or topic until "off'd"
+    on: (event: string, callback: (...args) => void) => void;
+
+    // Unsubscribe a callback for a given string event or topic
+    off: (event: string, callback: (...args) => void) => void;
+
+    // Emit an event with optional arguments when executes call registered callbacks
+    emit: (event: string, ...args) => void;
+
+    // OPTIONAL: Subscribe a callback to the stringy event or topic until a single piece of data is received, then unsubscribe
+    once: (event: string, callback: (...args) => void) => void;
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "transfer",
+    "message": "Alice transfered 0.01 eth to Bob",
+    "value": 0.01,
+    "sender": "Alice",
+    "receiver": "Bob"
+  },
+  {
+    "name": "mint",
+    "message": "Alice minted an nft for 10 eth",
+    "value": 10,
+    "tokenId": 11,
+    "sender": "Alice"
+  },
+  {
+    "name": "burn",
+    "message": "Alice burnt an nft",
+    "tokenId": 11,
+    "sender": "Alice"
+  }
+]
