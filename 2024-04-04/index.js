@@ -57,6 +57,7 @@ app.post('/data', upload.array(), (req, res) => {
 
 app.patch('/data', (req,res) => {
     // inserts int into array of numbers and resorts it, challenge does not specify response
+    // will tackle this tomorrow
 })
 
 app.listen(port, () => {
