@@ -1,0 +1,14 @@
+{
+  "name": "2024-04-04",
+  "version": "1.0.0",
+  "description": "## Description Trying a Back End Challenge found in the [Headstorm Interview Repo](https://github.com/Headstorm/Interview/tree/master/challenges#back-end-challenge). Doing some practice with Express to create the routes and then manipulating the JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
