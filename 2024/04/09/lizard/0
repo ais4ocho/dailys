@@ -1,0 +1,39 @@
+{
+    "name": "Lizard #0",
+    "description": "This is a strong and durable lizard for all your outdoors adventures! It will not rust, fade, or get soggy when submerged in your choice of beverages. Please note that it has not been tested for space travel.",
+    "image": "https://gateway.ipfs.io/ipfs/QmRtamhHnHRS8ZqABgysnhh5j3JBJ5pV5VLz5wQvWQnyFK",
+    "attributes": [
+        {
+            "trait_type": "Background Color",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Skin Color",
+            "value": "Gray"
+        },
+        {
+            "trait_type": "Chassis",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Skin Mod",
+            "value": "Topo"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Big Pink"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Terminator"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Plug"
+        },
+        {
+            "trait_type": "Frequency",
+            "value": "103.5 MHz"
+        }
+    ]
+}

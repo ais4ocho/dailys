@@ -1,0 +1,51 @@
+{
+    "name": "Lizard #1",
+    "description": "This lizard can dance for hours without tiring.",
+    "image": "https://gateway.ipfs.io/ipfs/QmdimRgCaorddzvThfpFSDk9yotu1Taee9nGsXotqiCXrV",
+    "attributes": [
+        {
+            "trait_type": "Background Color",
+            "value": "Teal"
+        },
+        {
+            "trait_type": "Skin Color",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Chassis",
+            "value": "Standard"
+        },
+        {
+            "trait_type": "Skin Mod",
+            "value": "Stripes"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Socket"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Normal"
+        },
+        {
+            "trait_type": "Back",
+            "value": "Bandana"
+        },
+        {
+            "trait_type": "Top",
+            "value": "Microchip Crown"
+        },
+        {
+            "trait_type": "Front Neck",
+            "value": "Button Array"
+        },
+        {
+            "trait_type": "Nose",
+            "value": "Unihorn"
+        },
+        {
+            "trait_type": "Frequency",
+            "value": "103.5 MHz"
+        }
+    ]
+}
